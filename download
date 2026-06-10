@@ -1,0 +1,17 @@
+# Copy this file to .env and fill in your values
+# NEVER commit .env to GitHub
+
+# ElevenLabs
+ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
+
+# Kling AI
+KLING_ACCESS_KEY=your_kling_access_key_here
+KLING_SECRET_KEY=your_kling_secret_key_here
+
+# Supabase
+SUPABASE_URL=your_supabase_project_url_here
+SUPABASE_ANON_KEY=your_supabase_anon_key_here
+
+# Server
+PORT=3001
+NODE_ENV=production
